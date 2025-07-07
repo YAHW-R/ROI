@@ -1,0 +1,11 @@
+{
+  "name": "roi",
+  "version": "1.0.0",
+  "description": "the web app for show the verses of bible ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yahw-r",
+  "license": "ISC"
+}
