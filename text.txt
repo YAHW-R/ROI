@@ -1,1 +1,0 @@
-este es una carpeta simplemente para poder crear un archico react en git hub directamente 
